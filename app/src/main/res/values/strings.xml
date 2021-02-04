@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_email_username">Username or email address</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >2 characters</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="unchecked_error">Please agree to our terms and privacy policy</string>
+    <string name="avatar_error">Please choose an image</string>
+    <string name="invalid_confirm_password">Password not matched</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_failed">"Register failed"</string>
+    <string name="app_registration">"Create account"</string>
+</resources>
